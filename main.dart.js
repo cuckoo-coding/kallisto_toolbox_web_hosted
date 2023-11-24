@@ -92230,7 +92230,7 @@ A.Uc.prototype={
 aA(){this.aK()
 this.d.R(0,new A.ao6(this))},
 E(a){var s=null
-return new A.hb(new A.k2("Kallisto Toolbox",!1,A.uH(s,B.GP,new A.ao2(),s,s),s,!0,s),A.hc(new A.ao3(),new A.ao4(this),t.d,t.so),s,s,s)}}
+return new A.hb(new A.k2("Kallisto Toolbox v1.0.1",!1,A.uH(s,B.GP,new A.ao2(),s,s),s,!0,s),A.hc(new A.ao3(),new A.ao4(this),t.d,t.so),s,s,s)}}
 A.ao6.prototype={
 $0(){var s=this.a
 s.aq(new A.ao5(s))},
